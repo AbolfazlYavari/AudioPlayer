@@ -1,8 +1,9 @@
 # AudioPlayer
 
-Audio Player
+
 Audio Player is a simple PyQt5-based application that allows you to play and manage audio files. With this application, you can add songs to a playlist, control playback, and view the current song's progress and duration.
 Features
+
 •	Add songs to the playlist by selecting audio files in the supported MP3 format.
 •	Play, pause, stop, skip forward, and skip backward through the playlist.
 •	Display the current playback time and the total duration of the currently playing song.
