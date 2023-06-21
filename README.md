@@ -27,10 +27,15 @@ Audio Player is a simple PyQt5-based application that allows you to play and man
 
 1.	Clone the repository or download the source code.
 2.	Install the required dependencies by running the following command:
+
 Copy code
+
 pip install PyQt5 pygame mutagen 
-3.	Run the application using the following command:
+
+4.	Run the application using the following command:
+
 Copy code
+
 python audio_player.py 
 
 # Usage
