@@ -23,27 +23,7 @@ Audio Player is a simple PyQt5-based application that allows you to play and man
 
 •	mutagen
 
-# Installation
 
-1.	Clone the repository or download the source code.
-2.	Install the required dependencies by running the following command:
-
-Copy code
-
-pip install PyQt5 pygame mutagen 
-
-4.	Run the application using the following command:
-
-Copy code
-
-python audio_player.py 
-
-# Usage
-
-1.	Launch the application.
-2.	Click on the "Add song" option in the "Song" menu to add audio files to the playlist.
-3.	Use the play, pause, stop, skip forward, and skip backward buttons to control playback.
-4.	To delete a song from the playlist, select it and click on the "Delete song" option in the "Song" menu.
 
 # Contributing
 
